@@ -1,0 +1,6 @@
+#surefire
+#Thu May 30 14:37:07 EEST 2013
+user.dir=/Users/djifos/Desktop/cytoscape.coreplugins_biopax_jar_2.8.4-SNAPSHOT
+netbeans.execution=true
+localRepository=/Users/djifos/.m2/repository
+basedir=/Users/djifos/Desktop/cytoscape.coreplugins_biopax_jar_2.8.4-SNAPSHOT

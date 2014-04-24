@@ -1,0 +1,39 @@
+node0                    	                         	       
+HTUR-551                 	node0                    	undef  
+node1                    	node0                    	       
+BSUB-168                 	node1                    	undef  
+PSTA-606                 	node1                    	undef  
+node12                   	node1                    	       
+COCH-727                 	node12                   	undef  
+node13                   	node12                   	       
+DFER-180                 	node13                   	undef  
+SLIN-D74                 	node13                   	undef  
+node14                   	node12                   	       
+CPIN-258                 	node14                   	undef  
+PSAL-121                 	node14                   	undef  
+node2                    	node1                    	       
+SAUR-DW4                 	node2                    	undef  
+node3                    	node2                    	       
+node4                    	node3                    	       
+ACIN-ADP                 	node4                    	undef  
+node5                    	node4                    	       
+PAER-PAO                 	node5                    	undef  
+PPUT-KT2                 	node5                    	undef  
+node6                    	node3                    	       
+ECOL-165                 	node6                    	undef  
+SENT-SL1                 	node6                    	undef  
+node7                    	node2                    	       
+ATUM-C58                 	node7                    	undef  
+RSPH-241                 	node7                    	undef  
+node8                    	node2                    	       
+DACI-SPH                 	node8                    	undef  
+NCIN-146                 	node8                    	undef  
+node9                    	node1                    	       
+CWOE-146                 	node9                    	undef  
+node10                   	node9                    	       
+GOBS-431                 	node10                   	undef  
+node11                   	node10                   	       
+BCAV-123                 	node11                   	undef  
+BFAE-481                 	node11                   	undef  
+KSED-205                 	node11                   	undef  
+XCEL-158                 	node11                   	undef  
