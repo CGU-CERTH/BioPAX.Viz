@@ -47,7 +47,7 @@ Plugins -> BioPAX Viz
 <br/>
 
 
-<h3>Usage notes:</h3>
+<h3>Usage notes</h3>
 * You can select any node from the tree structure and see the instance of the reference pathway for the selected node/organism. 
 * The tree structure is shown in the smaller window at the top left corner of the main window by default and it is resizable and movable at any location in the Cytoscape window. If you dismiss this window in the background you can always bring it back to the front by hitting the 'Space' button in the keyboard.
 * The <i>presence</i> property is denoted by the <b>orange</b> color while the <i>absence</i> property is denoted by the <b>purple</b> color!
