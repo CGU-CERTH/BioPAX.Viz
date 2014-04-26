@@ -53,6 +53,7 @@ Plugins -> BioPAX Viz
 * The <i>presence</i> property is denoted by the <b>orange</b> color while the <i>absence</i> property is denoted by the <b>purple</b> color!
 * In case you need to display a single BioPAX file, when the pop-up window is displayed at first you have to enable the 'Select file' radio-button option and then choose a specific BioPAX file (.owl extension) from the File-chooser window.
 <br/>
+<br/>
 
 Copyright (c) 2014 CERTH<br/>
 Author: Dimitrios Vitsios<br/>
