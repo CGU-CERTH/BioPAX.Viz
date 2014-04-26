@@ -54,6 +54,6 @@ Plugins -> BioPAX Viz
 * In case you need to display a single BioPAX file, when the pop-up window is displayed at first you have to enable the 'Select file' radio-button option and then choose a specific BioPAX file (.owl extension) from the File-chooser window.
 <br/>
 
-Copyright (c) 2013 CERTH<br/>
+Copyright (c) 2014 CERTH<br/>
 Author: Dimitrios Vitsios<br/>
 Last edit: 26 April 2014
