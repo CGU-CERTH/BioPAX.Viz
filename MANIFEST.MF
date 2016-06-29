@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Cytoscape-API-Compatibility: 3.0
+Cytoscape-App: cytoscape.customapp.biopax.BioPaxVizApp
+Cytoscape-App-Name: BioPax.Viz.SimpleApp
+Cytoscape-App-Version: 1.0
