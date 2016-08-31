@@ -54,13 +54,9 @@ Apps -> BioPaxViz (1.0)
 
 <code>
 node80
-
 node63		node80
-
 FNUC-ATC	node63	undef
-
 XFAS-9A5	node63	undef
-
 MPUL-UAB	node80	undef
 </code>
 
