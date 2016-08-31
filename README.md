@@ -52,13 +52,13 @@ Apps -> BioPaxViz (1.0)
 2. Run the BioPAXClient software in order to introduce the presence/absence information for each of the BioPAX files; however, the means to obtain the information is independent to the plugin (user decision).
 3. Generate the tree file. The tree file format is historical; the first column is node name, the second is parent name, and leafs of the tree are marked with the third column with ‘undef’ value in it. The root node does not have a parent and there should obviously be only one root. As an example, see the tree structure below:
 
-<code>
+```
 node80
 node63		node80
 FNUC-ATC	node63	undef
 XFAS-9A5	node63	undef
 MPUL-UAB	node80	undef
-</code>
+```
 
 
 <h3>Uninstalling the App</h3>
