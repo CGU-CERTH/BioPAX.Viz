@@ -6,7 +6,7 @@ BioPAXViz is a Cytoscape (version 3.x) app providing a comprehensive framework f
 
 <h2>Install notes</h2>
 <h3>Requirements</h3>
-* Cytoscape: <i>verified to work in v3.4.0)</i>
+* Cytoscape: <i>(verified to work in v3.4.0)</i>
 * Java (TM) SE Development Kit (required only for building the project from source): <i>verified to work with v.1.8.0_45_</i>
 Compatible with all major Operating Systems: <i>verified to work with Linux Ubuntu 14.04 LTS and Windows 10_</i>
 <br/>
