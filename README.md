@@ -38,7 +38,7 @@ You can also build the project through a command line interface with the followi
 <br/>
 
 <h3>Running the App on the sample input</h3>
-1. Download the <code>target</code> directory (it should contain 39 BioPAX files and a tree file). The BioPAX files already contain information about the presence/absence of the pathway and of the proteins within the pathway.
+1. Download the <code>sample</code> directory (it should contain 39 BioPAX files and a tree file). The BioPAX files already contain information about the presence/absence of the pathway and of the proteins within the pathway.
 2. Open Cytoscape.
 3. From the menu list select:
 Apps -> BioPaxViz (1.0)
