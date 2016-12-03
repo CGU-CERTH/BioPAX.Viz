@@ -13,19 +13,6 @@ Compatible with all major Operating Systems: <i>verified to work with Linux Ubun
 <br/>
 
 
-<h4>(<i>optional</i>) Building the project and creating a JAR file</h4>
-This is only recommended for expert users that have some programming experience. Otherwise you should directly use the provided pre-compiled jar file, located in the <code>target</code> directory.
-
-The easiest way to build the application and create the jar file, is through the use of an IDE such as NetBeans or Eclipse.
-You can also build the project through a command line interface with the following commands (slight changes may exist depending on OS):
-* Build the project from within the source:<br/>
-<code>javac -cp ".:/path/2/library/jar/files" *.java</code>
-* Create the .jar file:<br/>
-<code>jar cfm BioPaxViz.jar app-manifest *.class</code>
-<br/>
-<br/>
-
-
 <h3>Installing the App</h3>
 1. Download the pre-compiled jar file from the <code>target</code> directory
 2. Open Cytoscape. 
@@ -59,6 +46,19 @@ FNUC-ATC	node63	undef
 XFAS-9A5	node63	undef
 MPUL-UAB	node80	undef
 ```
+
+
+<h4>(<i>optional</i>) Building the project and creating a JAR file</h4>
+This is only recommended for expert users that have some programming experience. Otherwise you should directly use the provided pre-compiled jar file, located in the <code>target</code> directory.
+
+The easiest way to build the application and create the jar file, is through the use of an IDE such as NetBeans or Eclipse.
+You can also build the project through a command line interface with the following commands (slight changes may exist depending on OS):
+* Build the project from within the source:<br/>
+<code>javac -cp ".:/path/2/library/jar/files" *.java</code>
+* Create the .jar file:<br/>
+<code>jar cfm BioPaxViz.jar app-manifest *.class</code>
+<br/>
+<br/>
 
 
 <h3>Uninstalling the App</h3>
