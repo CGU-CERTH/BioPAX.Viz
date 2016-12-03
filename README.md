@@ -81,4 +81,4 @@ You can also build the project through a command line interface with the followi
 
 Copyright (c) 2016 CERTH<br/>
 Author: Fotis E. Psomopoulos<br/>
-Last edit: 31 August 2016
+Last edit: 3 December 2016
