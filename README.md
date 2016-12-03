@@ -48,7 +48,7 @@ MPUL-UAB	node80	undef
 ```
 
 
-<h4>(<i>optional</i>) Building the project and creating a JAR file</h4>
+<h3>(<i>optional</i>) Building the project and creating a JAR file</h3>
 This is only recommended for expert users that have some programming experience. Otherwise you should directly use the provided pre-compiled jar file, located in the <code>target</code> directory.
 
 The easiest way to build the application and create the jar file, is through the use of an IDE such as NetBeans or Eclipse.
