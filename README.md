@@ -34,7 +34,7 @@ Apps -> BioPaxViz (1.0)
 <br/>
 <br/>
 
-<h4>Workflow for preparing your own input</h4>
+<h3>Workflow for preparing your own input</h3>
 1. Download the pathway files in BioPAX format (BioCyc, MetaCyc, etc).
 2. Run the BioPAXClient software in order to introduce the presence/absence information for each of the BioPAX files; however, the means to obtain the information is independent to the plugin (user decision).
 3. Generate the tree file. The tree file format is historical/legacy, and can be easily be converted from a [Newick](https://en.wikipedia.org/wiki/Newick_format) tree format input file; the first column is node name, the second is parent name, and leaf nodes of the tree are marked with the third column with ‘undef’ value in it. The root node does not have a parent and there should obviously be only one root. As an example, see the tree structure below:
